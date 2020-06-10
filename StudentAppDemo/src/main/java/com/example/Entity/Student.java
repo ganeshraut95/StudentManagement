@@ -5,4 +5,6 @@ private int StudentId;
 private String studentName;
 private String studentCourse;
 
+private long mobile;
+
 }

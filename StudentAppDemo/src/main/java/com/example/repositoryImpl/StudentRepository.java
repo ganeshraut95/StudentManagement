@@ -12,5 +12,6 @@ public class StudentRepository implements com.example.repository.StudentReposito
 
 	public void m5() {
 		System.out.println("m5");
+		System.out.println("hiii");
 	}
 }

@@ -10,4 +10,7 @@ public class StudentRepository implements com.example.repository.StudentReposito
 		return null;
 	}
 
+	public void m5() {
+		System.out.println("m5");
+	}
 }

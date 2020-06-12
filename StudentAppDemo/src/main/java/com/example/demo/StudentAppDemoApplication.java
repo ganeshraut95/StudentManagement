@@ -8,6 +8,7 @@ public class StudentAppDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudentAppDemoApplication.class, args);
+		System.out.println("Stater class");
 	}
 
 }

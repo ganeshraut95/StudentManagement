@@ -14,5 +14,6 @@ public class StudentRepository implements com.example.repository.StudentReposito
 		System.out.println("m5");
 		System.out.println("hiii");
 		System.out.println("hello");
+		System.out.println("Ganesh");
 	}
 }
